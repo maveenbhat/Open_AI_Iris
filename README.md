@@ -13,7 +13,7 @@ Able to provide help with JavaScript, React, and other programming languages
 Sleek and elegant user interface, making it easy to use and navigate
 
 # Getting started
-Clone the repository: git clone https://github.com/your-username/iris.git
+Clone the repository: git clone https://github.com/maveenbhat/Open_AI_Iris.git
 Install dependencies: npm install or yarn install
 Start the development server: npm run dev or yarn dev
 Open http://localhost:3000 in your browser
