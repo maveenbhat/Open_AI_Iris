@@ -11,7 +11,7 @@ You can try out the app on https://open-ai-iris.vercel.app/
 
 # Features
 
-Utilizes an advanced GPT-3 model API to understand and respond to natural language queries<br>
+- Utilizes an advanced GPT-3 model API to understand and respond to natural language queries<br>
 Able to provide help with JavaScript, React, and other programming languages<br>
 Sleek and elegant user interface, making it easy to use and navigate<br>
 
