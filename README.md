@@ -12,20 +12,20 @@ You can try out the app on https://open-ai-iris.vercel.app/
 # Features
 
 - Utilizes an advanced GPT-3 model API to understand and respond to natural language queries<br>
-Able to provide help with JavaScript, React, and other programming languages<br>
-Sleek and elegant user interface, making it easy to use and navigate<br>
+- Able to provide help with JavaScript, React, and other programming languages<br>
+- Sleek and elegant user interface, making it easy to use and navigate<br>
 
 # Getting started
-Clone the repository: git clone https://github.com/maveenbhat/Open_AI_Iris.git<br>
-Install dependencies: npm install or yarn install<br>
-Start the development server: npm run dev or yarn dev<br>
-Open http://localhost:3000 in your browser<br>
+- Clone the repository: git clone https://github.com/maveenbhat/Open_AI_Iris.git<br>
+- Install dependencies: npm install or yarn install<br>
+- Start the development server: npm run dev or yarn dev<br>
+- Open http://localhost:3000 in your browser<br>
 
 # Built With
 
-Vite.js<br>
-Node.js<br>
-GPT-3 API<br>
+- Vite.js<br>
+- Node.js<br>
+- GPT-3 API<br>
 
 # Contribute
 If you're interested in contributing to the development of Iris, feel free to submit pull requests or issues.
