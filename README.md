@@ -20,7 +20,7 @@ Open http://localhost:3000 in your browser<br>
 
 # Built With
 
-Vite<br>
+Vite.js<br>
 Node.js<br>
 GPT-3 API<br>
 
