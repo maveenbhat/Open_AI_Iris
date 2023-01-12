@@ -1,4 +1,7 @@
-# Open_AI_Iris
+
+<h1 align="center">
+  Open AI Iris
+</h1>
 
 Iris is a state-of-the-art AI chatbot that can assist developers with programming-related questions. It utilizes an advanced GPT-3 model API to understand and respond to natural language queries, and can provide help with JavaScript, React, and other programming languages.
 
